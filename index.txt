@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[5088,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Navigation"]
+5:I[1602,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Hero"]
+6:I[53,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"About"]
+7:I[6552,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Skills"]
+8:I[1582,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Experience"]
+9:I[5564,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Apps"]
+a:I[8743,["367","static/chunks/367-debfe3e282578b13.js","974","static/chunks/app/page-b68f1435a82e8f73.js"],"Footer"]
+b:I[4431,[],"OutletBoundary"]
+d:I[5278,[],"AsyncMetadataOutlet"]
+f:I[4431,[],"ViewportBoundary"]
+11:I[4431,[],"MetadataBoundary"]
+12:"$Sreact.suspense"
+14:I[7150,[],""]
+:HL["/portfolio/_next/static/media/103fc5fac08dcb15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/css/71488bde670ada83.css","style"]
+0:{"P":null,"b":"MDNDNq3BWczr8-QtEX443","p":"/portfolio","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/portfolio/_next/static/css/71488bde670ada83.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"fr","children":["$","body",null,{"className":"__variable_f07e2c __variable_f1ce5a __variable_ffa00a antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[[["$","$L4",null,{}],["$","main",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}]]}]],null,["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}],false]],"m":"$undefined","G":["$14",[]],"s":false,"S":true}
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+e:{"metadata":[["$","title","0",{"children":"Faustin Veyssière · Ingénieur iOS"}],["$","meta","1",{"name":"description","content":"Ingénieur iOS, sept ans à livrer des apps grand public. Co-fondateur FJ-Studios. Basé à Paris, ouvert à la mobilité."}],["$","meta","2",{"property":"og:title","content":"Faustin Veyssière · Ingénieur iOS"}],["$","meta","3",{"property":"og:description","content":"Sept ans d'iOS grand public, Swift, SwiftUI, UIKit. Miniloo, Shikki, Katagami, GO&Up, Iziwork, Prisma Media."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Faustin Veyssière · Ingénieur iOS"}],["$","meta","7",{"name":"twitter:description","content":"Sept ans d'iOS grand public, Swift, SwiftUI, UIKit. Miniloo, Shikki, Katagami, GO&Up, Iziwork, Prisma Media."}]],"error":null,"digest":"$undefined"}
+13:"$e:metadata"
